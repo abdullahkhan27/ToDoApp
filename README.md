@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+To-Do App:
+This is a simple To-Do application built using React. It allows users to add, update, and delete tasks. The tasks can also be marked as completed or uncompleted. Additionally, users can search for tasks based on their titles.
+
+Features :
+Add new tasks with a title.
+Update existing tasks.
+Delete tasks.
+Mark tasks as completed or uncompleted.
+Search for tasks based on title.
+
+Usage:
+1.When the application starts, you will see an input field to add a new task and a list of existing tasks.
+2.Enter a task title in the input field and click the "Add Task" button to add a new task to the list.
+3.Each task in the list will have buttons to update, delete, and mark it as completed or uncompleted.
+4.To update a task, click the "Update" button next to the task. This will open a form where you can modify the task title. Click the "Update Task" button to save the changes or "Cancel" to discard them.
+5.To delete a task, click the "Delete" button next to the task. This will remove the task from the list.
+6.To mark a task as completed or uncompleted, click the checkbox next to the task title. This will toggle the task's status.
+7.To search for tasks based on their titles, enter a search query in the search input field. The list of tasks will dynamically filter and display only the tasks that match the search query.
+
+
+Dependencies :
+React: A JavaScript library for building user interfaces.
+react-dom: Provides DOM-specific methods for React.
+bootstrap: A popular CSS framework for building responsive and mobile-first websites.
